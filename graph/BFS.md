@@ -1,6 +1,10 @@
 ![](https://github.com/SaeedFarahani/study_algorithms_python/blob/main/graph/img/5205102925185024.svg)
-![](/home/sf/src/idea/algorithms/study_algorithms_python/graph/img/5205102925185024.svg)
-Breadth-first search (BFS) is an algorithm used for tree traversal on graphs or tree data structures. BFS can be easily implemented using recursion and data structures like dictionaries and lists.
+
+
+
+**Breadth-first search (BFS)** 
+
+BFS is an algorithm used for tree traversal on graphs or tree data structures. BFS can be easily implemented using recursion and data structures like dictionaries and lists.
 
 
 #Time Complexity
