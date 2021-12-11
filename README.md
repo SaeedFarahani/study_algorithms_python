@@ -1,1 +1,1 @@
-# study_algorithms_python
+# study algorithms python
